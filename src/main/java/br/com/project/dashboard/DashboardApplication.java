@@ -1,4 +1,4 @@
-package br.com.project.Dashboard;
+package br.com.project.dashboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
